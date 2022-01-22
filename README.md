@@ -1,4 +1,4 @@
-# vox_fvs5_adio_switch
+# vox_vfs5_adio_switch
 Use raspberry pico to drive an Vox Adio Air GT via Vox VFS5 footswitch using MIDI-USB
 
 # Caution
